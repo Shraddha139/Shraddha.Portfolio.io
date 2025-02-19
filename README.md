@@ -1,4 +1,3 @@
-# Shraddha.Portfolio.io
 # Shraddhaben Patel
 
 Welcome to my portfolio! I am a passionate **IT professional** specializing in **cloud computing, mobile application development, and data engineering**. With experience in **AWS, Kubernetes, Docker, and distributed computing**, I am eager to contribute to innovative technology solutions.
