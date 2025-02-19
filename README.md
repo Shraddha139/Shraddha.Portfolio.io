@@ -3,7 +3,6 @@
 Welcome to my portfolio! I am a passionate **IT professional** specializing in **cloud computing, mobile application development, and data engineering**. With experience in **AWS, Kubernetes, Docker, and distributed computing**, I am eager to contribute to innovative technology solutions.
 
 ## 🚀 About Me
-- 📍 Based in Hamilton, Canada
 - 🎓 Pursuing **Post-Graduate Certificate in Mobile Application Development** at **Canadore College**
 - 🎓 Completed **Post-Graduate Certificate in Information Systems Business Analysis** at **Northern College**
 - 💡 AWS Cloud Practitioner (in progress), Kubernetes & DevOps Enthusiast
@@ -11,7 +10,7 @@ Welcome to my portfolio! I am a passionate **IT professional** specializing in *
 - 🔍 Looking for opportunities in **Cloud & DevOps Engineering, Software Development, and Data Engineering**
 
 ## 🛠️ Technical Skills
-- **Cloud & DevOps:** AWS, Azure, Google Cloud, Docker, Kubernetes
+- **Cloud & DevOps:** AWS, Google Cloud, Docker, Kubernetes
 - **Programming & Scripting:** Python, SQL, Shell Scripting, C++, HTML, CSS, JavaScript
 - **Tools & Frameworks:** Git, Jira, Figma, Photoshop
 - **Data & Infrastructure:** Data Ingestion, Distributed Computing, Cloud Databases
