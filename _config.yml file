@@ -1,2 +1,14 @@
-title: Shraddhaben Patel
-theme: jeykll-theme-minimal
+title: "Shraddhaben Patel"
+author: "Shraddhaben Patel"
+description: "Cloud Computing | Mobile App Development | DevOps | Data Engineering"
+theme: jekyll-theme-minimal
+
+# Enable sidebar navigation
+show_sidebar: true
+navigation:
+  - title: "About"
+    url: "#about"
+  - title: "Resume"
+    url: "#resume"
+  - title: "Contact"
+    url: "#contact"
